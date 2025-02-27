@@ -2,11 +2,11 @@
 
 ## singbox 1.11.x 配置模板链接：
 ```ruby
-https://raw.githubusercontent.com/L-strawberry/singbox_Conf/refs/heads/main/singbox1.11.x.json?token=GHSAT0AAAAAAC3MDX3CZTYS4TNLITJAL4REZ6AESGA
+https://raw.githubusercontent.com/L-strawberry/singbox_Conf/refs/heads/main/singbox1.11.x.json
 ```
 ## singbox 1.12.x 配置模板链接：
 ```ruby
-https://raw.githubusercontent.com/L-strawberry/singbox_Conf/refs/heads/main/singbox1.12.x.json?token=GHSAT0AAAAAAC3MDX3CQQPB5KQ7TF7RNRXOZ6AEVIQ
+https://raw.githubusercontent.com/L-strawberry/singbox_Conf/refs/heads/main/singbox1.12.x.json
 ```
 ## 配合脚本使用
 
