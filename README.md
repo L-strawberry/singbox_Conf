@@ -1,4 +1,4 @@
-# singbox_Conf
+# singbox_Conf & Script Linklist
 
 ## singbox 1.11.x 配置模板链接：
 ```ruby
