@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/L-strawberry/singbox_Conf/refs/heads/main/sing
 ```ruby
 https://raw.githubusercontent.com/L-strawberry/singbox_Conf/refs/heads/main/singbox1.12.x.json
 ```
-## 配合脚本使用
+## 配合脚本食用体验拉满
 
 ### type=0,单条订阅；type=1，组合订阅；
 ### name=订阅名称（非显示名称）
