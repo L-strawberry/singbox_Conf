@@ -117,6 +117,13 @@
       },
       {
         "action": "route",
+        "domain": [
+          "oochat.space"
+        ],
+        "outbound": "SG"
+      },
+      {
+        "action": "route",
         "process_name": [
           "com.levelinfinite.sgameGlobal",
           "com.junkfood.seal.preview"
