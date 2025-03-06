@@ -178,7 +178,7 @@
       },
       {
         "action": "sniff",
-        "inbound": "tun-in"
+        "inbound": "tun"
       },
       {
         "action": "hijack-dns",
