@@ -556,7 +556,7 @@
   },
   "log": {
     "disabled": false,
-    "level": "info",
+    "level": "warn",
     "output": "singbox_logs",
     "timestamp": true
   }
