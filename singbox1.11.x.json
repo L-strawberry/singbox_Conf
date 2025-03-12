@@ -102,7 +102,7 @@
           "mtalk.google.com",
           "mtalk4.google.com"
         ],
-        "outbound": "DIRECT"
+        "outbound": "HK"
       },
       {
         "action": "route",
