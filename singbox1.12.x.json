@@ -150,11 +150,17 @@
       {
         "action": "route",
         "rule_set": [
+          "openai"
+        ],
+        "outbound": "OPENAI"
+      },
+      {
+        "action": "route",
+        "rule_set": [
           "youtube",
           "tiktok",
           "twitter_ip",
           "twitter_site",
-          "openai",
           "cloudflare_ip",
           "cloudflare_site",
           "google_ip",
@@ -396,6 +402,15 @@
       "tag": "TELEGRAM",
       "interrupt_exist_connections": true,
       "outbounds": [
+        
+      ]
+    },
+    {
+      "type": "selector",
+      "tag": "OPENAI",
+      "interrupt_exist_connections": true,
+      "outbounds": [
+        "DLWLRMA"
         
       ]
     },
