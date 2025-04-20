@@ -138,6 +138,13 @@
       {
         "action": "route",
         "rule_set": [
+          "openai"
+        ],
+        "outbound": "OPENAI"
+      },
+      {
+        "action": "route",
+        "rule_set": [
           "bilibili_ip",
           "bilibili_site"
         ],
@@ -150,7 +157,6 @@
           "tiktok",
           "twitter_ip",
           "twitter_site",
-          "openai",
           "cloudflare_ip",
           "cloudflare_site",
           "google_ip",
@@ -401,6 +407,15 @@
       "interrupt_exist_connections": true,
       "outbounds": ["HK",
         "SG"
+        
+      ]
+    },
+    {
+      "type": "selector",
+      "tag": "OPENAI",
+      "interrupt_exist_connections": true,
+      "outbounds": [
+        "DLWLRMA"
         
       ]
     },
